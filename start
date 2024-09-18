@@ -1,3 +1,4 @@
 git clone https://github.com/Mhmd26/ScoR scorpion
 cd scorpion
 python3 -m JoKeRUB
+python JoKeRUB/assistant/aibot.py
